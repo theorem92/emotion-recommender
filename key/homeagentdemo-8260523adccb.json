@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "homeagentdemo",
+  "private_key_id": "8260523adccbe1427f0397c0ff450047f76df953",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3l8iQaaeCTl20\nrJGBaboG+2pR3VxdDb4aKlH/3SbTORWffW80d7w2ffcLJ/6lUFh2ihbfNHNdwRws\nFjVqzBX1OnUjbDQAwcmiHboHS31G+7uoCXAev2pT9gWx6032khhuBTFrPL79PtuQ\nbX/KJSfKUGwJ9SILGMhJLdZRb5b/sQIDkARKY6K43DeAGyAptniGBGGL23PjbTP4\nXiVsP/rgP9wHs2rjq7sZwMGNdGP9tvYZvIoiphRvPkgwVnHwtMtgjo44PZMK0sDa\nSOHc95bxGeN4SFI4CjpnNuAs5e/pxO2FtirzgN+PG+hz1cX3YoHNhicsBg8/5AhX\ny8/OfhqxAgMBAAECggEAAclWB/9s6LVoOJeQt3iEeSzrZ1v0o0VziK2lUOgPJBXj\nQkMvWLERk8hzuBgSZI38vBhFCdlEPPnhygLkK1FMgNQXppCW+hiff/IOrVpaIAIg\nynrxmhHZneCt1qaDgo4kzrZnXdhXMSQ7cQDo6NoTtHjYb7c5yQHblaPaQgd2PB2N\nKuIG3RzEojdHJsUyO1y3YRfTb1OT4Y/UBZRn0kFw8kBSiCE615ReJzXlaxU2gGx+\neyiAjELf5MzXMvHy9GUqpaRo00WMvAf6Bv9MPT0vfuui/p9JxgM+2WGqumvzVI+h\n3gqyqf+tjnvgOCkN14QjDmLmINbcdAFJioTCLAlOQQKBgQDnEWE2hDcMzROv8ENe\nsldsAxTrVGceJ1mfOwr1StkR4fm8zSunrdgwRwYWp4eXTj8CJeScp7aBkGHXkVM9\nYmkFYzvAZXQ+eI4gtU5YBBKKAncbI/JyjTrFJs/TjoMgbs+rqBgJlwt5im6q/NiC\nSifxH3sPKGurkLveM1CchSklJwKBgQDLZwlmb2IFWp1QX8K1UFabnPI7X8PK9GTW\nd+CeURE1gPnhHJNqVyz/SyO0mSt5rVkyBw/JnkOyqDNhG8yJLXHHJ+j7XuiGZxYm\nhT/kPbal5KlasQKs6JDyegB3tWWMSvkZglKbWMQHVGNwJUYYUoNldYQ8Iixzgi+S\nl9v0kreYZwKBgFCEkOCDX/948tRLH96+vJHp3P9IEQrD4YoH9ACXzV5a5UByKjUq\n8fuYtDlutWP3IyOneqtQEdvCKSYKAPyR71CuTKL1d3VRYw1owF0RRjiLNV/ivdhG\n+GS86oyoy26gzoLdd0rYNGps37V7mCKGnrZ6JtKYXjSRobWDIiL4j+bfAoGAWW/w\nCTO2xSXoAFxrEDDINFqZhJQCUq6N3GQPx21cBMu2lE5tX5f/eC4BADtNi442pzHF\ntmC54cfl97AyiqsJ2Ylp/4Xm9ppDeiKjSmf8dQuLkA4/X+pPOd99byW7Bio9SAMu\n8ZHheFuZ8cjh/nXhwu4efBaGty+qXWoa1Hri8ccCgYEAjk2zGNXd728ix1gKeyvt\n9h+dyRSrJDWnRw8xSXE4Zd36cF0b7AO/zvyRARPy0NnGEM7ZwybJbqbXGlR5vwmn\nMyjM+AWato1gBW1hN9Zpm+2bhukDtGWqpATEWVnndMJAjkiwLj3W6JLsCGccWwGl\nrebMmZeJXY+9+/ujOrZctc4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "homeagentdemo@homeagentdemo.iam.gserviceaccount.com",
+  "client_id": "116535746486890141780",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/homeagentdemo%40homeagentdemo.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

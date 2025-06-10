@@ -1,13 +1,15 @@
+from dotenv import load_dotenv
 import os
 import streamlit as st
 from vertexai.generative_models import GenerativeModel, Part
+import vertexai
 
-# Vertex AI 인증 키 파일 설정
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "homeagentdemo-8260523adccb.json"
+# .env 파일 불러오기
+load_dotenv()
 
-# GCP 설정
-PROJECT_ID = "homeagentdemo"
-LOCATION = "us-central1"
+# 환경변수 설정
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.getenv("GOOGLE_APPLICATION_CREDENTIALS")
+vertexai.init(project=os.getenv("PROJECT_ID"), location=os.getenv("LOCATION"))
 
 # Streamlit 페이지 설정
 st.set_page_config(page_title="감성 콘텐츠 추천", layout="centered")
